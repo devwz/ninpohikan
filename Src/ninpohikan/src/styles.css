@@ -12,6 +12,10 @@ h3 {
     color: #e1e8ed;
 }
 
+a {
+    text-decoration: none;
+}
+
 body {
     background-color: #161717;
 }
