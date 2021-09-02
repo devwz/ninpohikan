@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* 480px mobile */
+/* 768px ipad */
+/* 1024px screen */
+
+h1 {
+    color: red;
+}
+
+h3 {
+    color: #e1e8ed;
+}
+
+body {
+    background-color: #161717;
+}
+
+@media (min-width: 768px) {
+    
+}
